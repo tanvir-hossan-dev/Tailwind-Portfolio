@@ -8,6 +8,9 @@ module.exports = {
         primary: "#F40404",
         yellowBorder: "#FFB800",
       },
+      maxWidth: {
+        container: "1140px",
+      },
     },
   },
   plugins: [],
