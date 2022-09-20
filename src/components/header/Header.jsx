@@ -5,7 +5,7 @@ import { FaFacebookF, FaLinkedinIn } from "react-icons/fa";
 
 const Header = () => {
   return (
-    <div className="bg-[#282828] py-[15px]">
+    <div className="bg-[#282828] py-[20px] border-b-[3px] border-yellowBorder">
       <div className="max-w-container mx-auto">
         <div className="flex">
           <div className="w-3/4 flex ">
